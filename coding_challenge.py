@@ -5,6 +5,8 @@ import pandas as pd
 import random
 
 # the credentials for using Twitter's API
+# I have used Twitter's API before so I already had the credenetials needed 
+# but I omitted them from my code. My code won't work without the credentials. 
 consumer_key= 'consumer_key'
 consumer_secret= 'consumer_secret'
 access_token= 'access_token'
